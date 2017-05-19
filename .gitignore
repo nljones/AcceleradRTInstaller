@@ -1,0 +1,5 @@
+# Windows output folders
+*/bin/*
+*/obj/*
+*/Debug/*
+*/Release/*
